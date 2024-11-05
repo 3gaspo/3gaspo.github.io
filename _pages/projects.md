@@ -9,5 +9,8 @@ header:
 
 ###### Projects
 
-- *test*  
-test
+- *SciencesPrepa*
+French Youtube channel dedicated to science (mainly mathematics)
+
+- *Datalitics*
+Twitter account dedicated to data science.
