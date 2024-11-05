@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Gaspard Berthelier"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1631859199118.jpg"
   bio              : "PhD in Deep Learning for Time Series."
   location         : "Paris-Saclay"
   email            :
