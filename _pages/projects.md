@@ -16,6 +16,7 @@ French Youtube channel dedicated to science (mainly mathematics)
 Twitter account dedicated to data science.
 
 
+
 #### Side projects
 
 - [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.
