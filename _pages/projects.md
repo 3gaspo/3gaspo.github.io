@@ -18,7 +18,8 @@ Twitter account dedicated to data science.
 
 #### Side projects
 
-- [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials
+- [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials.
+- [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime shorts.
 
   
 #### Archive
