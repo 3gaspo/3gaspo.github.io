@@ -18,12 +18,14 @@ Twitter account dedicated to data science.
 
 #### Side projects
 
+- [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials
 
+  
 #### Archive
 
 - [*Nnaga*](https://www.youtube.com/@Gaspa93100)
-Gaming channel (mainly minecraft)
+Gaming channel (mainly minecraft).
 
-- [*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Blog wordpress
+- [*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.
 
-- [*Gaspo*](https://gaspo125063974.wordpress.com/) Site wordpress
+- [*Gaspo*](https://gaspo125063974.wordpress.com/) Wordpress website.
