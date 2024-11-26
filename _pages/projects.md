@@ -23,9 +23,7 @@ Twitter account dedicated to data science.
 - [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime AMV & shorts.
 
 
-##### Archive
-<sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub>
-
-<sub>[*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.</sub>
-
-<sub>[*Gaspo*](https://gaspo125063974.wordpress.com/) Wordpress website.</sub>
+### Archive
+<sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub><br>
+<sub>[*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.</sub><br>
+<sub>[*Gaspo*](https://gaspo125063974.wordpress.com/) Wordpress website.</sub><br>
