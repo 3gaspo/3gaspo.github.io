@@ -22,7 +22,7 @@ Twitter account dedicated to data science.
 - [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.
 - [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime AMV & shorts.
 
-
+<br>
 ### Archive
 <sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub><br>
 <sub>[*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.</sub><br>
