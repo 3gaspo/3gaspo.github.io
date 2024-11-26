@@ -25,6 +25,7 @@ Twitter account dedicated to data science.
 
 ##### Archive
 <sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub>
-<sub>[*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.</sub>
-<sub>[*Gaspo*](https://gaspo125063974.wordpress.com/) Wordpress website.</sub>
 
+<sub>[*Gaspard Berthelier*](https://gaspardberthelier.home.blog/) Wordpress blog.</sub>
+
+<sub>[*Gaspo*](https://gaspo125063974.wordpress.com/) Wordpress website.</sub>
