@@ -17,9 +17,10 @@ Twitter account dedicated to data science.
 
 ## Side projects
 
-- [*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.
 - [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime AMV & shorts.
 
 
 ## Archive
+
+<sub>[*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.</sub><br>
 <sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub><br>
