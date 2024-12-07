@@ -16,7 +16,7 @@ Upcoming paper on interpretable decomposition of time series forecasts
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
 
 
-## Side projects
+## For fun
 
 <sub>[*Tenseurs*](https://drive.google.com/file/d/1T3-IHOHo_bVuHNcgh6e0PIVdg8NNsMiS/view?usp=sharing)</sub><br>
 <sub>[*Théorie des meubles*](https://drive.google.com/file/d/1_brZneyo9wD4bScFze1ydpzozyZrotzy/view?usp=sharing)</sub><br>
