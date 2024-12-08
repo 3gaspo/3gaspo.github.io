@@ -17,6 +17,8 @@ Twitter account dedicated to data science.
 
 ## Side projects
 
+- [*Blue To Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Photography
+
 - [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime AMV & shorts.
 
 
