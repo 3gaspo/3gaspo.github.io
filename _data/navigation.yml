@@ -20,6 +20,8 @@ main:
     url: /papers/
   - title: "Projects"
     url: /projects/
+  - title: "Talks"
+    url: /talks/
   # - title: "Presentations"
   #   sublinks:
   #   - title: "Talks"
