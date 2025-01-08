@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-- [*IEEE BigData 2023*]([https://2023.compas-conference.fr/](https://bigdataieee.org/BigData2023/))
+- [*IEEE BigData 2023*](https://bigdataieee.org/BigData2023/)
 Presented my paper "Toward training NLP models to take into account privacy leakages"
 
 - [*Compas 2023*](https://2023.compas-conference.fr/)
