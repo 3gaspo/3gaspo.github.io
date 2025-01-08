@@ -18,10 +18,12 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Papers"
     url: /papers/
-  - title: "Projects"
-    url: /projects/
   - title: "Talks"
     url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Projects"
+    url: /projects/
   # - title: "Presentations"
   #   sublinks:
   #   - title: "Talks"
