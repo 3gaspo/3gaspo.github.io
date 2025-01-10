@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Exhaustive list of my published research papers
+List of my published or ongoing research papers
 
 ## Research papers
 
