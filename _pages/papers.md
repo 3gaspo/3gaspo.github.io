@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
+Exhaustive list of my published research papers
+
 ## Research papers
 
 - [*eXplainability through Positive Contributions (XPC)*](https://github.com/3gaspo/xpc))
