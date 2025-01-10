@@ -14,13 +14,12 @@ Links to a few of my personal projects
 - [*SciencesPrepa*](https://www.youtube.com/@sciencesprepa)
 French Youtube channel dedicated to science (mainly mathematics)
 
-- [*Quantum Computing Guide*]([https://x.com/datalitics](https://github.com/3gaspo/guide-infoQ))
+- [*Quantum Computing Guide*](https://github.com/3gaspo/guide-infoQ)
 French introduction to quantum computing
 
 ## Side projects
 
-- [*Datalitics*](https://x.com/datalitics)
-Twitter account dedicated to data science.
+- [*Datalitics*](https://x.com/datalitics) Twitter account dedicated to data science.
 
 - [*Blue To Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Photography Instagram account.
 
