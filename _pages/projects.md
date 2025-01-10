@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
+Links to a few of my personal projects
+
 ## Main projects
 
 - [*SciencesPrepa*](https://www.youtube.com/@sciencesprepa)
