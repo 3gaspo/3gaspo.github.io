@@ -7,7 +7,9 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-## Academic courses
+## Courses
+
+- (2024)
 
 ## Tutoring
 
