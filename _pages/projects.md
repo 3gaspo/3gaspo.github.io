@@ -17,7 +17,7 @@ French Youtube channel dedicated to science (mainly mathematics)
 - [*Quantum Computing Guide*](https://github.com/3gaspo/guide-infoQ)
 French introduction to quantum computing
 
-- *Next (upcoming productivity modbile app)*
+- *Next (upcoming mobile productivity app)*
 
 ## Side projects
 
