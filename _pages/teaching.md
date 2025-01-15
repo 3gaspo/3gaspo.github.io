@@ -11,8 +11,12 @@ header:
 
 - (2024) Upcoming
 
+## Summaries
+
+<sub>[*Tenseurs (French)*](https://drive.google.com/file/d/1T3-IHOHo_bVuHNcgh6e0PIVdg8NNsMiS/view?usp=sharing)</sub><br>
+
 ## Tutoring
 
-- (2023) Assisting handicaped students during their practical exams, at [Université Grenoble Alpes](https://etudiant.univ-grenoble-alpes.fr/le-service-accueil-handicap-1379586.kjsp)
-- (2023) In person homework assistance in science for a high school student, in Grenoble
-- (2022) Online turoring in mathematics and mecanics for students in "classes préparatoires", with [Edulid](https://www.edulide.fr/)
+<sub>(2023) Assisting handicaped students during their practical exams, at [Université Grenoble Alpes](https://etudiant.univ-grenoble-alpes.fr/le-service-accueil-handicap-1379586.kjsp)</sub><br>
+<sub>(2023) In person homework assistance in science for a high school student, in Grenoble</sub><br>
+<sub>(2022) Online turoring in mathematics and mecanics for students in "classes préparatoires", with [Edulid](https://www.edulide.fr/)</sub><br>
