@@ -13,7 +13,7 @@ header:
 
 ## Summaries
 
-<sub>[*Tenseurs (French)*](https://drive.google.com/file/d/1T3-IHOHo_bVuHNcgh6e0PIVdg8NNsMiS/view?usp=sharing)</sub><br>
+<sub>[*Tenseurs*](https://drive.google.com/file/d/1T3-IHOHo_bVuHNcgh6e0PIVdg8NNsMiS/view?usp=sharing)</sub><br> Explaning tensors (in French)
 
 ## Tutoring
 
