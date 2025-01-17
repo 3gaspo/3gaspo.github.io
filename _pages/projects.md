@@ -22,7 +22,7 @@ Upcoming mobile productivity app
 
 ## Side projects
 
-- [*Datalitics*](https://x.com/datalitics) Twitter account dedicated to data science (also available on [*BlueSky*](https://bsky.app/profile/datalitics.bsky.social)
+- [*Datalitics*](https://x.com/datalitics) Twitter account dedicated to data science (also available on [*Bluesky*](https://bsky.app/profile/datalitics.bsky.social))
 
 - [*Blue To Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Photography Instagram account.
 
