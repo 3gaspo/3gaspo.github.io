@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Link to my resume : [CV](assets/CV.pdf)
+Link to my resume : [CV](https://3gaspo.github.io/assets/CV.pdf)
 
 ## Main events
 
