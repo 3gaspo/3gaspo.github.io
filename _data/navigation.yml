@@ -24,6 +24,8 @@ main:
     url: /teaching/
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/
   # - title: "Presentations"
   #   sublinks:
   #   - title: "Talks"
