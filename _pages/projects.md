@@ -32,5 +32,5 @@ Upcoming mobile productivity app
 ## Archive
 
 <sub>[*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.</sub><br>
-<sub>*Tokyo 2022* [*part 1*](https://vimeo.com/898535856) [*part 2*](https://vimeo.com/1019188913) Movie of my semester exchange in Japan
+<sub>*Tokyo 2022* [*part 1*](https://vimeo.com/898535856) [*part 2*](https://vimeo.com/1019188913) Movie of my semester exchange in Japan</sub><br>
 <sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub><br>
