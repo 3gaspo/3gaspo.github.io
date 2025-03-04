@@ -12,7 +12,8 @@ Links to a few of my personal projects
 ## Main projects
 
 - [*Quanta de Sciences*](https://www.youtube.com/@sciences.quanta)
-French Youtube channel dedicated to science (mainly mathematics). Also available on [*Instagram*](https://www.instagram.com/sciences.quanta) and [*TikTok*(https://www.tiktok.com/@sciences.quanta).
+French Youtube channel dedicated to science (mainly mathematics).<br>
+Also available on [*Instagram*](https://www.instagram.com/sciences.quanta) and [*TikTok*](https://www.tiktok.com/@sciences.quanta).
 
 
 
