@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Chronological list of my various talks on my research
+Chronological list of my various research talks
 
 ## Research conferences
 
