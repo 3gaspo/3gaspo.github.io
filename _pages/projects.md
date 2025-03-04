@@ -11,7 +11,7 @@ Links to a few of my personal projects
 
 ## Main projects
 
-- [*SciencesPrepa*](https://www.youtube.com/@sciencesprepa)
+- [*Quanta de Sciences*](https://www.youtube.com/@sciences.quanta)
 French Youtube channel dedicated to science (mainly mathematics)
 
 - [*Quantum Computing Guide*](https://github.com/3gaspo/guide-infoQ)
@@ -22,11 +22,11 @@ Upcoming mobile productivity app
 
 ## Side projects
 
-- [*Datalitics*](https://x.com/datalitics) Twitter account dedicated to data science (also available on [*Bluesky*](https://bsky.app/profile/datalitics.bsky.social))
+- [*Blue To Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Instagram photography account.
 
-- [*Blue To Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Photography Instagram account.
+- [*Datalitics*](https://x.com/datalitics) Twitter on data science (also available on [*Bluesky*](https://bsky.app/profile/datalitics.bsky.social))
 
-- [*Anime Memories*](https://www.youtube.com/channel/UC08isU1hjTjGIvLHQZ1uIIw) Anime AMV & shorts.
+- [*Anime Memories*](https://www.youtube.com/@animemememories) Anime edits.
 
 
 ## Archive
