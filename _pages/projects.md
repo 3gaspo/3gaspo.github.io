@@ -12,7 +12,7 @@ Links to a few of my personal projects
 ## Main projects
 
 - [*Quanta de Sciences*](https://www.youtube.com/@sciences.quanta)
-French Youtube channel dedicated to science (mainly mathematics).<br>
+French Youtube channel dedicated to science.<br>
 Also available on [*Instagram*](https://www.instagram.com/sciences.quanta) and [*TikTok*](https://www.tiktok.com/@sciences.quanta).
 
 
@@ -35,4 +35,4 @@ Upcoming mobile productivity app
 <sub>[*Datalitics*](https://x.com/datalitics) Twitter on data science (also available on [*Bluesky*](https://bsky.app/profile/datalitics.bsky.social))</sub><br>
 <sub>[*Tutoriels en vrac*](https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA) Various tutorials in French.</sub><br>
 <sub>[*Tokyo 2022 (part 1)*](https://vimeo.com/898535856) [*(part 2)*](https://vimeo.com/1019188913) Movie of my semester exchange in Japan</sub><br>
-<sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Gaming channel (mainly minecraft).</sub><br>
+<sub>[*Nnaga*](https://www.youtube.com/@Gaspa93100) Old gaming channel (mainly minecraft).</sub><br>
