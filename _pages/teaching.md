@@ -7,15 +7,15 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
+## Projects
+
+[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) Maths \& physics.
+
+
 ## Courses
 
 - (2025) Upcoming
 
-## Summaries
-
-*SciencesPrepa* Upcoming science website
-
-[*Tenseurs*](https://drive.google.com/file/d/1T3-IHOHo_bVuHNcgh6e0PIVdg8NNsMiS/view?usp=sharing) (explaning tensors in French)
 
 ## Tutoring
 
