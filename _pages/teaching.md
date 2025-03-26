@@ -7,14 +7,13 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-## Projects
-
-[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) Maths \& physics.
-
-
 ## Courses
 
 - (2025) Upcoming
+
+## Projects
+
+[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) Website for document on various maths \& physics topics.
 
 
 ## Tutoring
