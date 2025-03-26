@@ -27,7 +27,7 @@ Upcoming mobile productivity app
 
 - [*Blue to Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Instagram photography account.
 
-- [*Anime Memories*](https://www.youtube.com/@animemememories) Anime edits.
+- [*Animememories*](https://www.youtube.com/@animemememories) Anime edits.
 
 
 ## Archive
