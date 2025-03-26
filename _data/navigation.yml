@@ -16,6 +16,8 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "CV"
+    url: /cv/
   - title: "Papers"
     url: /papers/
   - title: "Talks"
@@ -24,8 +26,7 @@ main:
     url: /teaching/
   - title: "Projects"
     url: /projects/
-  - title: "CV"
-    url: /cv/
+
   # - title: "Presentations"
   #   sublinks:
   #   - title: "Talks"
