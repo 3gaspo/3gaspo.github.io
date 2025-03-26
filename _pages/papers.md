@@ -11,7 +11,7 @@ List of my published or ongoing research papers
 
 ## Research papers
 
-- [*https://github.com/3gaspo/timetensor*](https://github.com/3gaspo/timetensor)
+- [*TimeTensor*](https://github.com/3gaspo/timetensor)
 Upcoming work on a general framework for benchmarking time series models
 
 - [*eXplainability through Positive Contributions (XPC)*](https://github.com/3gaspo/xpc)
