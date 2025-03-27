@@ -13,4 +13,4 @@ My subject is *Federated Learning for Time Series, applied to the energy demain*
 <sub>The aim is to develop robust methods to learn on decentralized and non-stationary data, taking into account local specificities (enabling personalization). Applications include local time series forecasting (e.g. electricity load), imputation, anomaly detection, etc 💻</sub><br>
 
 
-I am also a science, video \& photography enthusiast 🎥 (see links to my projects).
+I am also a science, video & photography enthusiast 🎥 (see links to my projects).
