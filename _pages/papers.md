@@ -21,7 +21,7 @@ Upcoming paper on interpretable decomposition of time series forecasts
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
 
 - [*Are AIs really intelligent ?*](https://medium.com/@gberthelier.projet/are-ais-really-intelligent-a4a08afffaa7)
-(Medium essay on LLMs intelligence, April 2023)
+(Essay on Medium about LLMs' intelligence, April 2023)
 
 ## For fun
 
