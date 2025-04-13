@@ -9,7 +9,7 @@ header:
 
 List of my published or ongoing research papers
 
-## Research papers
+## Serious papers
 
 - [*TimeTensor*](https://github.com/3gaspo/timetensor)
 Upcoming work on a general framework for benchmarking time series models
@@ -20,6 +20,8 @@ Upcoming paper on interpretable decomposition of time series forecasts
 - [*Toward training NLP models to take into account privacy leakages*](https://hal.science/hal-04299405v1)
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
 
+- [*Are AIs really intelligent ?*](https://medium.com/@gberthelier.projet/are-ais-really-intelligent-a4a08afffaa7)
+(Medium essay on LLMs intelligence, April 2023)
 
 ## For fun
 
