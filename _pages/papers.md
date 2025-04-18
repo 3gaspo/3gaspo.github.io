@@ -20,6 +20,9 @@ Upcoming paper on interpretable decomposition of time series forecasts
 - [*Toward training NLP models to take into account privacy leakages*](https://hal.science/hal-04299405v1)
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
 
+- [ChatGPT, modèles de langage et données personnelles : quels risques pour nos vies privées ?](https://theconversation.com/chatgpt-modeles-de-langage-et-donnees-personnelles-quels-risques-pour-nos-vies-privees-208256)
+(French article for The Conversation, June 2023)
+
 - [*Are AIs really intelligent ?*](https://medium.com/@gberthelier.projet/are-ais-really-intelligent-a4a08afffaa7)
 (Essay on Medium about LLMs' intelligence, April 2023)
 
