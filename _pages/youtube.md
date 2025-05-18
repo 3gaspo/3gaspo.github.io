@@ -50,8 +50,15 @@ Links to my different networks
 ## Twitter
 
 <div class="icon-grid">
+  <a href="https://x.com/sciencesquanta">
+    <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
+    <p>Quanta de Sciences</p>
+  </a>
+</div>
+
+<div class="icon-grid">
   <a href="https://x.com/datalitics">
-    <img src="/assets/icons/datalitics" alt="Datalitics">
+    <img src="/assets/icons/datalitics.png" alt="Datalitics">
     <p>Datalitics</p>
   </a>
 </div>
@@ -77,7 +84,7 @@ Links to my different networks
     <p>Quanta de Sciences</p>
   </a>
   <a href="https://bsky.app/profile/datalitics.bsky.social">
-    <img src="/assets/icons/datalitics" alt="Anime Memories">
+    <img src="/assets/icons/datalitics.png" alt="Anime Memories">
     <p>Anime Memories</p>
   </a>
 </div>
