@@ -42,7 +42,7 @@ Links to my different networks
     <p>Anime Memories</p>
   </a>
   <a href="https://www.instagram.com/blueto_sunny/">
-    <img src="/assets/icons/tutorial.png" alt="Blue to Sunny">
+    <img src="/assets/icons/blue" alt="Blue to Sunny">
     <p>Blue to Sunny</p>
   </a>
 </div>
