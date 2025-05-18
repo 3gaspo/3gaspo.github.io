@@ -54,9 +54,6 @@ Links to my different networks
     <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
     <p>Quanta de Sciences</p>
   </a>
-</div>
-
-<div class="icon-grid">
   <a href="https://x.com/datalitics">
     <img src="/assets/icons/datalitics.png" alt="Datalitics">
     <p>Datalitics</p>
