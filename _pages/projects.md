@@ -13,19 +13,17 @@ Links to a few of my personal projects
 
 - [*Quanta de Sciences*](https://www.youtube.com/@sciences.quanta)
 French Youtube channel dedicated to science.<br>
-Also available on [*Instagram*](https://www.instagram.com/sciences.quanta) and [*TikTok*](https://www.tiktok.com/@sciences.quanta).
 
 ## Side projects
 
-- [*Content creation*](/youtube/) (Youtube, Instagram, TikTok, ...)
-
 - [*Blue to Sunny*](https://www.instagram.com/blueto_sunny/?hl=fr) Instagram photography account.
+  
+Link to my all my other [*content creation*](/youtube/) accounts
+
+- [*Quantum Computing Guide*](https://github.com/3gaspo/guide-infoQ) French introduction to quantum computing</sub><br>
 
 
 ## Archive 
-
-<sub>[*Quantum Computing Guide*](https://github.com/3gaspo/guide-infoQ)
-French introduction to quantum computing</sub><br>
 
 <sub>[*Next*](https://github.com/3gaspo/Next)
 Upcoming mobile productivity app</sub><br>
