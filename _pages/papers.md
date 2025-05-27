@@ -9,7 +9,7 @@ header:
 
 List of my published or ongoing research papers
 
-## Serious papers
+## Research
 
 - [*TimeTensor*](https://github.com/3gaspo/timetensor)
 Upcoming work on a general framework for benchmarking time series models
