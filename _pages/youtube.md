@@ -2,7 +2,7 @@
 permalink: /youtube/
 layout: single
 author_profile: true
-title: "Projects"
+title: "Online Content"
 header:
   overlay_image: /assets/images/geneve.jpg
 ---
