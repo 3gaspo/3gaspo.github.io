@@ -76,13 +76,13 @@ Links to my different networks
 ## BlueSky
 
 <div class="icon-grid">
-  <a href="https://www.tiktok.com/@sciences.quanta">
+  <a href="https://bsky.app/profile/sciencesquanta.bsky.social">
     <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
     <p>Quanta de Sciences</p>
   </a>
   <a href="https://bsky.app/profile/datalitics.bsky.social">
-    <img src="/assets/icons/datalitics.png" alt="Anime Memories">
-    <p>Blue to Sunny</p>
+    <img src="/assets/icons/datalitics.png" alt="Datalitics">
+    <p>Datalitics</p>
   </a>
 </div>
 
