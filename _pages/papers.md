@@ -9,13 +9,15 @@ header:
 
 List of my published or ongoing research papers
 
-## Research
+## Upcoming
 
 - [*TimeTensor*](https://github.com/3gaspo/timetensor)
-Upcoming work on a general framework for benchmarking time series models
+Upcoming framework for learning on time series datasets
 
 - [*XPC*](https://github.com/3gaspo/xpc)
-Upcoming paper on interpretable decomposition of time series forecasts
+Upcoming package on interpretable decomposition of time series forecasts
+
+## Published
 
 - [*Toward training NLP models to take into account privacy leakages*](https://hal.science/hal-04299405v1)
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
