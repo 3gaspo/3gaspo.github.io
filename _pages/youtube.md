@@ -82,7 +82,7 @@ Links to my different networks
   </a>
   <a href="https://bsky.app/profile/datalitics.bsky.social">
     <img src="/assets/icons/datalitics.png" alt="Anime Memories">
-    <p>Anime Memories</p>
+    <p>Blue to Sunny</p>
   </a>
 </div>
 
