@@ -10,6 +10,9 @@ header:
 Chronological list of my various research talks
 
 ## Research conferences
+- [*JdS 2025*](https://jds2025.sciencesconf.org/)
+(56ème Journées de Statistique - Marseille, France)\
+Presented my work on interpretability of load forecasting models
 
 - [*IEEE BigData 2023*](https://bigdataieee.org/BigData2023/)
 (6th Special Session on HealthCare Data - Sorrento, Italy)\
