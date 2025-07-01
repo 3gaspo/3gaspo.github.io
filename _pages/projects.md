@@ -16,7 +16,7 @@ French Youtube channel dedicated to science.<br>
 
 ## Side projects
 
-- [*Blue to Sunny*]([https://www.instagram.com/blueto_sunny/?hl=fr](https://gaspo.notion.site/Blue-to-Sunny-215424ce114b80a688d3fe1d7ae534eb?pvs=74)) Photography.\
+- [*Blue to Sunny*](https://gaspo.notion.site/Blue-to-Sunny-215424ce114b80a688d3fe1d7ae534eb?pvs=74) Photography.\
   Link to my all my [*online content*](/youtube/)
 
 - [*Tokyo 2022*](/tokyo/) About my trip to Japan
