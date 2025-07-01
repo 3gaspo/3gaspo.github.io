@@ -13,7 +13,7 @@ header:
 
 ## Projects
 
-[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) Website on various maths & physics topics.
+[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) French website on maths & physics.
 
 
 ## Tutoring
