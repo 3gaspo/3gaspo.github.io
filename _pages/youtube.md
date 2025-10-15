@@ -2,12 +2,12 @@
 permalink: /youtube/
 layout: single
 author_profile: true
-title: "Online Content"
+title: "Online content creation"
 header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Links to my different networks
+Trying my best to build an online presence ! Here is a list of my projects.
 
 ## Youtube
 
@@ -15,10 +15,6 @@ Links to my different networks
   <a href="https://www.youtube.com/@sciences.quanta">
     <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
     <p>Quanta de Sciences</p>
-  </a>
-  <a href="https://www.youtube.com/@animemememories">
-    <img src="/assets/icons/anime.png" alt="Anime Memories">
-    <p>Anime Memories</p>
   </a>
   <a href="https://www.youtube.com/channel/UCo-qkV187HhALYFvtq8fYxA">
     <img src="/assets/icons/tutorial.png" alt="Tutoriels en vrac">
@@ -33,54 +29,24 @@ Links to my different networks
 ## Instagram
 
 <div class="icon-grid">
-  <a href="https://www.instagram.com/sciences.quanta">
-    <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
-    <p>Quanta de Sciences</p>
+  <a href="https://www.instagram.com/blueto_sunny/">
+    <img src="/assets/icons/blue.png" alt="Blue to Sunny">
+    <p>Blue to Sunny</p>
+  </a>
+  <a href="https://www.instagram.com/run_with_gaspi/">
+    <img src="/assets/icons/run.png" alt="Run with Gaspi">
+    <p>Anime Memories</p>
   </a>
   <a href="https://www.instagram.com/ani_mememories/">
     <img src="/assets/icons/anime.png" alt="Anime Memories">
     <p>Anime Memories</p>
-  </a>
-  <a href="https://www.instagram.com/blueto_sunny/">
-    <img src="/assets/icons/blue.png" alt="Blue to Sunny">
-    <p>Blue to Sunny</p>
   </a>
 </div>
 
 ## Twitter
 
 <div class="icon-grid">
-  <a href="https://x.com/sciencesquanta">
-    <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
-    <p>Quanta de Sciences</p>
-  </a>
   <a href="https://x.com/datalitics">
-    <img src="/assets/icons/datalitics.png" alt="Datalitics">
-    <p>Datalitics</p>
-  </a>
-</div>
-
-## TikTok
-
-<div class="icon-grid">
-  <a href="https://www.tiktok.com/@sciences.quanta">
-    <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
-    <p>Quanta de Sciences</p>
-  </a>
-  <a href="https://www.youtube.com/@animemememories">
-    <img src="/assets/icons/anime.png" alt="Anime Memories">
-    <p>Anime Memories</p>
-  </a>
-</div>
-
-## BlueSky
-
-<div class="icon-grid">
-  <a href="https://bsky.app/profile/sciencesquanta.bsky.social">
-    <img src="/assets/icons/quanta.png" alt="Quanta de Sciences">
-    <p>Quanta de Sciences</p>
-  </a>
-  <a href="https://bsky.app/profile/datalitics.bsky.social">
     <img src="/assets/icons/datalitics.png" alt="Datalitics">
     <p>Datalitics</p>
   </a>
