@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Trying my best to build an online presence ! Here is a list of my projects.
+Trying my best to build an online presence in this over-satured world. Here is a list of my projects.
 
 ## Youtube
 
@@ -35,7 +35,7 @@ Trying my best to build an online presence ! Here is a list of my projects.
   </a>
   <a href="https://www.instagram.com/run_with_gaspi/">
     <img src="/assets/icons/run.png" alt="Run with Gaspi">
-    <p>Anime Memories</p>
+    <p>Run with Gaspi</p>
   </a>
   <a href="https://www.instagram.com/ani_mememories/">
     <img src="/assets/icons/anime.png" alt="Anime Memories">
