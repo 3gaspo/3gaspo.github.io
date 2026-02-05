@@ -9,7 +9,7 @@ header:
 
 ## Courses
 
-- (2025) Upcoming
+- (2026) Chargé de TD pour le cours de M1 "Séries Temporelles" à [*l'ENSAE*](https://www.ensae.fr/).
 
 ## Projects
 
