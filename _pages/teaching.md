@@ -9,7 +9,7 @@ header:
 
 ## Courses
 
-- (2026) Practical sessions for the Time Series course of M1 students at [*l'ENSAE*](https://www.ensae.fr/).
+- (2026) Practical sessions for the Time Series course of M1 students at [l'ENSAE](https://www.ensae.fr/).
 
 ## Projects
 
