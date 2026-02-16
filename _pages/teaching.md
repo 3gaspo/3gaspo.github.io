@@ -9,11 +9,11 @@ header:
 
 ## Courses
 
-- (2026) Chargé de TD pour le cours de M1 "Séries Temporelles" à [*l'ENSAE*](https://www.ensae.fr/).
+- (2026) Practical sessions for the Time Series course of M1 students at [*l'ENSAE*](https://www.ensae.fr/).
 
 ## Projects
 
-[*Quanta de Sciences*](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) French website on maths & physics.
+[Quanta de Sciences](https://www.notion.so/sciencequanta/Quanta-de-sciences-197424ce114b80129e85d43646784ab1) French website on maths & physics.
 
 
 ## Tutoring
