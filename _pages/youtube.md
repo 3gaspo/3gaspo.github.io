@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-Trying my best to build an online presence! Here is a list of my projects.
+Trying my best to build an online presence. Here is a list of my projects.
 
 ## Youtube
 
