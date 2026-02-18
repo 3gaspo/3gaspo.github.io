@@ -16,4 +16,4 @@ Link to my resume : [CV](https://3gaspo.github.io/assets/CV.pdf)
 - \[2024\] Graduated from [CentraleSupélec](https://www.centralesupelec.fr/) (Université Paris-Saclay), major in mathematics and data science
 - \[2022\] Academic exchange in [Keio University](https://www.keio.ac.jp/en/) in Tokyo
 - \[2020\] Successfully validated my _classes préparatoires_ at [Déodat de Séverac](https://deodat.mon-ent-occitanie.fr/formations/classes-preparatoires-aux-grandes-ecoles-cpge-/) (PSI*, accepted at CentaleSupélec)
-- \[2017\] Graduated from [*Le Caousou](https://www.caousou.com/) high school with highest honors (BAC S-SVT, mention européenne)
+- \[2017\] Graduated from [Le Caousou](https://www.caousou.com/) high school with highest honors (BAC S-SVT, mention européenne)
