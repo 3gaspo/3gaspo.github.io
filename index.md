@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/geneve.jpg
 ---
 
-PhD student in Deep Learning for Time Series and Federated Learning, applied to the energy domain. 📚
+PhD student in Deep Learning for Time Series and Federated Learning, applied to the Energy Domain. 📚
 
 <div class="icon-grid">
   <a href="https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial">
