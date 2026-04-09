@@ -17,3 +17,6 @@ Practical sessions for the Time Series course of M1 students at [l'ENSAE](https:
 
 Revision sheet (ongoing): [Time Series ENSAE](https://drive.google.com/file/d/1AKsttQ4ybfczpOhU3lNirWSVrIaZ1vs2/view?usp=drive_link)
 
+Hands-on code:
+- [TP4](https://colab.research.google.com/drive/1dgM6759HMT0g2lzQ7wnW0TrBOldQXXWH?usp=sharing)
+
