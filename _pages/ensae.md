@@ -13,9 +13,10 @@ Practical sessions for the Time Series course of M1 students at [l'ENSAE](https:
 
 - Stationary processes
 - ARIMA processes
-- Non-stationary vector processes
+- Multivariate regression
 
-Revision sheet (ongoing): [Time Series ENSAE](https://drive.google.com/file/d/1AKsttQ4ybfczpOhU3lNirWSVrIaZ1vs2/view?usp=drive_link)
+Revision sheets:
+- [Revisions](https://drive.google.com/file/d/1eeCKHtaKvDc0Vgtmb3S8df-llP0xb6yV/view?usp=sharing)
 
 Hands-on code:
 - [TP4](https://colab.research.google.com/drive/1dgM6759HMT0g2lzQ7wnW0TrBOldQXXWH?usp=sharing)
