@@ -16,8 +16,8 @@ Practical sessions for the Time Series course of M1 students at [l'ENSAE](https:
 - Multivariate regression
 
 Revision sheets:
-- [Revisions](https://drive.google.com/file/d/1RqXdPmEu_Fgq2586hYh9uHNT9YQA_q5G/view?usp=sharing)
-- [Chapter 1](https://drive.google.com/file/d/1pLcttQ_Gj0SEDlJZijY00ZJSw0PvtgTz/view?usp=sharing)
+- [Revisions](https://drive.google.com/file/d/1LD_rB3M1y4oMukWgZrReky4UoS51ARHS/view?usp=sharing)
+- [Chapter 1](https://drive.google.com/file/d/1Fns8xcSWGn38s-0XwBkZgVXQkxfJkKoC/view?usp=sharing)
 
 Hands-on code:
 - [TP4](https://colab.research.google.com/drive/1dgM6759HMT0g2lzQ7wnW0TrBOldQXXWH?usp=sharing)
