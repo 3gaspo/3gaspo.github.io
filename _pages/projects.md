@@ -24,10 +24,9 @@ Productivity apps.<br>
 
 - [Tokyo 2022](/tokyo/) About my trip to Japan
 
-- [Quantum Computing Guide](https://github.com/3gaspo/guide-infoQ) French introduction to quantum computing
 
 
 ## Archive 
 
-<sub>[Next](https://github.com/3gaspo/Next)
-Upcoming mobile productivity app</sub><br>
+- [Quantum Computing Guide](https://github.com/3gaspo/guide-infoQ) French introduction to quantum computing
+
