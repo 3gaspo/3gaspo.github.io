@@ -15,7 +15,7 @@ Links to a few of my personal projects
 French Youtube channel dedicated to science.<br>
 
 - [App suite](/apps/)
-Productivity apps..<br>
+Productivity apps.<br>
 
 ## Side projects
 
