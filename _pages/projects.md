@@ -14,6 +14,9 @@ Links to a few of my personal projects
 - [Quanta de Sciences](https://www.youtube.com/@sciences.quanta)
 French Youtube channel dedicated to science.<br>
 
+- [App suite](/apps/)
+Productivity apps..<br>
+
 ## Side projects
 
 - [Blue to Sunny](https://gaspo.notion.site/Blue-to-Sunny-215424ce114b80a688d3fe1d7ae534eb?pvs=74) Photography.\
