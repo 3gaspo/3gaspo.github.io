@@ -19,7 +19,7 @@ Revision sheets:
 - [Revisions](https://drive.google.com/file/d/1dg1ivunnLdainQjSyqa4qMreWdjUZVNC/view?usp=sharing)
 - [Autocorrelation, Stationarity, White Noises](https://drive.google.com/file/d/1cfFMHogdJbbcwrQx8XjgAnX5RMHv2lsI/view?usp=sharing)
 - [ARIMA models](https://drive.google.com/file/d/1DP9JV8AsMyaARlRwW8HhcDcrgRO8Zf9-/view?usp=sharing)
-- [VAR models (ongoing)](https://drive.google.com/file/d/1ZaWASpKyFIUq_9i4vWy31aElmoU55qvj/view?usp=drive_link)
+- [VAR models](https://drive.google.com/file/d/1vU90lXc4ah73OvHtZG5v6OY5Flmdks63/view?usp=sharing)
 
 Hands-on code:
 - [TP4](https://colab.research.google.com/drive/1dgM6759HMT0g2lzQ7wnW0TrBOldQXXWH?usp=sharing)
