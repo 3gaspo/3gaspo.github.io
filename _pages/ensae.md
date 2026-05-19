@@ -16,9 +16,9 @@ Practical sessions for the Time Series course of M1 students at [l'ENSAE](https:
 - Multivariate regression
 
 Revision sheets:
-- [Revisions](https://drive.google.com/file/d/1e9xfTbLSxR29uXnmWs2ZDgr6MBSCEgwD/view?usp=drive_link)
-- [Autocorrelation, Stationarity, White Noises](https://drive.google.com/file/d/1HMzT_Lf0dX3tU0O8i1a5GrXLviSO3b4t/view?usp=drive_link)
-- [ARIMA models (ongoing)](https://drive.google.com/file/d/1upUm77FZdxZGJFep1A3TrY3nn-9o8Kfd/view?usp=drive_link)
+- [Revisions](https://drive.google.com/file/d/1dg1ivunnLdainQjSyqa4qMreWdjUZVNC/view?usp=sharing)
+- [Autocorrelation, Stationarity, White Noises](https://drive.google.com/file/d/1cfFMHogdJbbcwrQx8XjgAnX5RMHv2lsI/view?usp=sharing)
+- [ARIMA models](https://drive.google.com/file/d/1DP9JV8AsMyaARlRwW8HhcDcrgRO8Zf9-/view?usp=sharing)
 - [VAR models (ongoing)](https://drive.google.com/file/d/1ZaWASpKyFIUq_9i4vWy31aElmoU55qvj/view?usp=drive_link)
 
 Hands-on code:
