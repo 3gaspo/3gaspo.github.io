@@ -10,7 +10,7 @@ header:
 ## Courses
 
 - (2026) Practical sessions for the Time Series course of M1 students at [l'ENSAE](https://www.ensae.fr/).<br>
-  Full course content: [Time Series ENSAE](/ensae/) 
+  Course content and revision sheets: [Time Series ENSAE](/ensae/) 
 
 ## Projects
 
