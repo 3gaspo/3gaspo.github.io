@@ -9,14 +9,6 @@ header:
 
 List of my published or ongoing research papers
 
-## Upcoming
-
-- [TimeTensor](https://github.com/3gaspo/timetensor)
-Upcoming framework for learning on time series datasets
-
-- [XPC](https://github.com/3gaspo/xpc)
-Upcoming package on interpretable decomposition of time series forecasts
-
 ## Published
 
 - [Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS](https://arxiv.org/abs/2605.12200)
@@ -32,6 +24,14 @@ Upcoming package on interpretable decomposition of time series forecasts
 
 - [Are AIs really intelligent ?](https://medium.com/@gberthelier.projet/are-ais-really-intelligent-a4a08afffaa7)
 (Essay on Medium about LLMs' intelligence, April 2023)
+
+## Upcoming
+
+- [TimeTensor](https://github.com/3gaspo/timetensor)
+Upcoming framework for learning on time series datasets
+
+- [XPC](https://github.com/3gaspo/xpc)
+Upcoming package on interpretable decomposition of time series forecasts
 
 ## For fun
 
