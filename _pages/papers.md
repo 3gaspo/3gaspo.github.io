@@ -19,6 +19,11 @@ Upcoming package on interpretable decomposition of time series forecasts
 
 ## Published
 
+- [Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS](https://arxiv.org/abs/2605.12200)
+(International Conference on Learning Representations, April 2026, Rio de Janeiro, Brazil)
+
+- [On the Role of Reversible Instance Normalization](https://arxiv.org/abs/2603.11869)
+
 - [Toward training NLP models to take into account privacy leakages](https://hal.science/hal-04299405v1)
 (IEEE International Conference on Big Data, December 2023, Sorrento, Italy)
 
